@@ -16,6 +16,7 @@ Este projeto React foi criado com o objetivo de aprimorar o uso do React Router 
 
 ## :bookmark: Índice
 
+<br>
 <p align="center">
  <a href="#-pré-requisitos">Pré-requisitos</a> •
  <a href="#-instalação">Instalação</a> • 
@@ -25,6 +26,7 @@ Este projeto React foi criado com o objetivo de aprimorar o uso do React Router 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#%EF%B8%8F-autora">Autora</a>
 </p>
+<br>
 
 ## 📋&nbsp; Pré-requisitos
 
@@ -75,6 +77,8 @@ Ao iniciar a aplicação, o layout padrão do projeto apresenta um cabeçalho co
 Na página "Sobre Mim", os usuários encontram um texto informativo e uma imagem que apresentam o autor do projeto. 
 
 Esse design oferece aos usuários uma experiência de navegação intuitiva, permitindo que eles explorem uma variedade de tópicos tecnológicos, saibam mais sobre o autor do projeto e descubram tópicos relacionados por meio das sugestões fornecidas no final de cada página de informações.
+
+<hr/>
 
 ## 🛠 Tecnologias
 <div align="center">
